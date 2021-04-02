@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Ali@wedhimd
+- 👋 Hi, I’m Mohammed Ali @wedhimd
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React & Nodejs
 - 💞️ I’m looking to collaborate on Front-End projects.
