@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React & Nodejs
 - 💞️ I’m looking to collaborate on Front-End projects.
 - 📫 How to reach me on 
-- * [Facebook](https://www.facebook.com/wedhimd)
-- * [Twitter](https://www.twitter.com/wedhimd)
+  * [Facebook](https://www.facebook.com/wedhimd)
+  * [Twitter](https://www.twitter.com/wedhimd)
 
 <!---
 wedhimd/wedhimd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
