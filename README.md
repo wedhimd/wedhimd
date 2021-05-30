@@ -5,6 +5,7 @@
 - 📫 How to reach me on 
   * [Facebook](https://www.facebook.com/wedhimd)
   * [Twitter](https://www.twitter.com/wedhimd)
+  * [LinkedIn}(https://www.linkedin.com/in/mohammed-ali-hamed)
 
 <!---
 wedhimd/wedhimd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
