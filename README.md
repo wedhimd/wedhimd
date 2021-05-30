@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React & Nodejs
 - 💞️ I’m looking to collaborate on Front-End projects.
-- 📫 How to reach me on <https://www.facebook.com/wedhimd>
+- 📫 How to reach me on [Facebook](https://www.facebook.com/wedhimd)
 
 <!---
 wedhimd/wedhimd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
