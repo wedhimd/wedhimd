@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Ali @wedhimd
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React & Nodejs
+- 👀 I’m a Web developer.
+- 🌱 I’m currently learning React & Nodejs, wordpress and others
 - 💞️ I’m looking to collaborate on Front-End projects.
 - 📫 How to reach me on 
   * [Facebook](https://www.facebook.com/wedhimd)
